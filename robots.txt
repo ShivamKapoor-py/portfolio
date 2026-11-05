@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shivam-kapoor.vercel.app/sitemap.xml
